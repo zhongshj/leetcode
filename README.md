@@ -18,6 +18,8 @@
 
 (39). Combination Sum (backtracking)
 
+(40). Combination Sum II (backtracking)
+
 ##### to be done:
 
-8, 12, 13, 18, 22, 29, 34, all hard
+29, 34, all hard
