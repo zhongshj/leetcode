@@ -1,3 +1,37 @@
+#### 10.19
+
+51~100 done
+
+
+
+##### Mark:
+
+(60). Permutation Sequence
+
+(62 & 63). Unique Path (DP)
+
+(75). Sort Colors (two pointers)
+
+(90). Subset II (backtracking)
+
+(91). Decode Ways (DP)
+
+(93). Restore IP Addresses (backtracking)
+
+
+
+##### to be done:
+
+53(recursive nlog(n)), 71, 81
+
+
+
+
+
+
+
+---
+
 #### 10.10
 
 1~50 done
